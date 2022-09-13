@@ -2,4 +2,5 @@
 <p>Completly build with Grid-Layouts and modern Grid-Layout Techniques</p>
 </br>
 You can see website here: <a href='https://nexte-r.netlify.app/'><strong> click me! </strong></a>
-![image](https://user-images.githubusercontent.com/91326015/190023110-66b5525c-fb29-473a-80b1-a9e01991be56.png)
+![image](https://user-images.githubusercontent.com/91326015/190023530-c05475c0-cb66-434b-bf99-59abc60a4950.png)
+
